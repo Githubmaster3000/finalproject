@@ -60,3 +60,8 @@ To use the Tennis Club Booking App:
 ## Conclusion
 
 The Tennis Club Booking App provides a convenient and efficient solution for managing tennis court bookings, benefiting both clubs and users by saving time and streamlining the booking process. With its user-friendly interface and robust features, it aims to enhance the overall tennis club experience.
+
+
+## Challenges and Lessons:
+Bugs was from the way we organize data request and data fetching. Solutions: to use customhook and structuring folder tree cleaner.
+D
